@@ -26,3 +26,17 @@ Ryuji Iwata([@qt_luigi](https://twitter.com/qt_luigi))
 ## 概要
 
 2020年から本格的にAzure SDK for Goに取り組み始めました。その過程においてAzureについても多く学びました。得られた知識のお裾分け。これまでの「合同勉強会 in 大都会岡山」にもAzureを使ったセッションがありましたが、改めまして「Microsoft Azure」をGo紹介させて頂きます。
+
+***
+
+## タイトル
+
+Flutterアプリコンテストを開催した話
+
+## 登壇者
+
+岸野 大輔 ([@kishisuke](https://twitter.com/kishisuke)) / ピープルソフトウェア株式会社
+
+## 概要
+
+今年、弊社内でFlutterアプリコンテストが開催されました。Flutterの基本的な内容に触れつつ、Flutter初心者だった私がいかにして限られた時間でアプリを作り上げたのかをお話しいたします。
