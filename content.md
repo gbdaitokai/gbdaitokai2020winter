@@ -54,3 +54,18 @@ Flutterアプリコンテストを開催した話
 ## 概要
 
 今年、弊社内でFlutterアプリコンテストが開催されました。Flutterの基本的な内容に触れつつ、Flutter初心者だった私がいかにして限られた時間でアプリを作り上げたのかをお話しいたします。
+
+***
+
+## タイトル
+
+DevContainerとWSL2ではじめるWindowsデスクトップでのWeb開発
+
+## 登壇者
+
+大中浩行 ([@setoazusa](https://twitter.com/setoazusa)) / Microsoft MVP for Developer Technologies
+
+## 概要
+
+Windowsデスクトップ環境でWeb開発をはじめてみませんか。VSCodeによるリモート開発を中心に、
+WSL2/DevContainer/VirtualBoxなど、Windowsデスクトップ上での開発環境の最新動向についてお話しします。
