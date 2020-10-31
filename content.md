@@ -74,6 +74,21 @@ Ryuji Iwata([@qt_luigi](https://twitter.com/qt_luigi))
 
 ## タイトル
 
+新サービスのインフラ作ってた話
+
+## 登壇者
+
+須増　亮（[@ryosms](https://twitter.com/ryosms)） / GitKraken Ambassador / Mackerel Ambassador 
+
+## 概要
+
+ここ1年ほど会社で新サービスのインフラ設計・構築やっていました。
+大規模サービスのインフラについてはネット上にあふれていますが、小規模・中規模サービスのインフラはどんなものなのかお話したいと思います。
+
+***
+
+## タイトル
+
 Flutterアプリコンテストを開催した話
 
 ## 登壇者
