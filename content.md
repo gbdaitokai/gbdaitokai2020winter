@@ -37,7 +37,7 @@ DevContainerとWSL2ではじめるWindowsデスクトップでのWeb開発
 
 ## 登壇者
 
-大中浩行 ([@setoazusa](https://twitter.com/setoazusa)) / Microsoft MVP for Developer Technologies
+大中浩行 ([@setoazusa](https://twitter.com/setoazusa)) / Microsoft MVP for Developer Technologies / VS Code Meetup
 
 ## 概要
 
