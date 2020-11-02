@@ -94,7 +94,7 @@ Ryuji Iwata([@qt_luigi](https://twitter.com/qt_luigi))
 
 ## 登壇者
 
-むね([@mune92283498](https://twitter.com/mune92283498))
+むね([@mune_actor_en](https://twitter.com/mune_actor_en))
 
 ## 概要
 未経験でIT業界に飛び込んでちょうど2年が経ち、少しこの業界の雰囲気がわかってきたところです。そんなひよっこエンジニアの僕がエンジニアの仕事やキャリアについてどのように考えているのかをお話しし、少しでも「聴いてよかった」と思っていただけるような内容をお届けできればと思います。
