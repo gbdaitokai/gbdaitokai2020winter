@@ -92,6 +92,20 @@ Ryuji Iwata([@qt_luigi](https://twitter.com/qt_luigi))
 
 ## タイトル
 
+AWS Lambda のちょっと便利なツールのご紹介
+
+## 登壇者
+
+藤原 吉規([@twingo_b](https://twitter.com/twingo_b))
+
+## 概要
+
+サーバーレスしてますか！ AWS Lambda でサーバーレスなサービスを構築・運用する際に、ロギング・トレーシング・アプリの統計情報グラフ出力などを Python, Java で簡単に実現するツールについて説明します。
+
+***
+
+## タイトル
+
 電子辞書は組み込みLinuxの夢を見るか？ Ver. 1.1.0
 
 ## 登壇者
